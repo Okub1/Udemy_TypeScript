@@ -1,5 +1,5 @@
 # Udemy TypeScript course
-Udemy TypeScript course project
+Udemy TypeScript course project,fyi this repo is not for freebooting, just for my showcase to other people and/or recruiters
 https://www.udemy.com/course/understanding-typescript/
 
 <h2>Sections</h2>

@@ -6,7 +6,7 @@ https://www.udemy.com/course/understanding-typescript/
 There are folders neatly sorted, all folder sections can be found at Udemy_TypeScript/Sections, current sections:
 <br><br>
 <ul>
-  <li>Section 1 - Getting Started</li>
+  <li>Section 1 - Getting Started (folder not provided, as it were course informations and setups)</li>
   <li>Section 2 - Typescript Basics & Basic Types</li>
   <li>Section 3 - The TypeScript Compiller (and it's Configuration)</li>
   <li>Section 4 - Next-generation JavaScript & TypeScript</li>

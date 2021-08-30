@@ -106,7 +106,7 @@
   "exclude": [
     // "**/*.dev.ts" example that ignores all files in all folders ending with .dev.ts
     "node_modules", // excludes node_modules folder, also would be default
-    "Section 2 - basics" // excludes .. folder
+    "Sections" // excludes .. folder
   ]
   // , "include": [
   //   "app.ts" // will compile only files/folders specified here, we compile include minus exclude

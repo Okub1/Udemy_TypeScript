@@ -3,7 +3,7 @@ Udemy TypeScript course project
 https://www.udemy.com/course/understanding-typescript/
 
 <h2>Sections</h2>
-
+There are folders neatly sorted, all folder sections can be found at Udemy_TypeScript/Sections
 <ul>
   <li>Section 1 - Getting Started</li>
   <li>Section 2 - Typescript Basics & Basic Types</li>

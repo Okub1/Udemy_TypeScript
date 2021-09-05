@@ -14,6 +14,9 @@ There are folders neatly sorted, all folder sections can be found at Udemy_TypeS
   <li>Section 6 - Advanced Types</li>
   <li>Section 7 - Generics</li>
   <li>Section 8 - Decorators</li>
-  <li>Section 9 - Project (currently here)</li>
+  <li>Section 9 - Project</li>
+  <li>Section 10 - Modules & Namespaces</li>
+  <li>Section 11 - Using Webpack with TypeScript</li>
+  <li>Section 12 - 3rd Party Libraries & TypeScript (currently here)</li>
   <li><i>more sections to come, as i slowly progress further</i></li>
 </ul>
